@@ -1,0 +1,54 @@
+body{
+    background-color: #10439F;
+}
+.to-do-list{
+    align-items: center;
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: none;
+    background-color: wheat;
+    border-radius: 20px;
+    box-shadow: 5px 10px ;
+}
+h1{
+    font-size: 2.5em;
+}
+input{
+    border:none;
+    padding: 10px;
+    border-radius: 8px;
+}
+.add-button{
+    background-color: #10439F;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+}
+.text{
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 5px;
+    font-weight: bold;
+    flex: 1;
+}
+li{
+    padding: 4px 2px;
+    border: 1px solid ;
+    margin-bottom: 8px;
+    background-color: #59D5E0;
+    border: none;
+    color: white;
+    border-radius: 8px;
+    display: flex;
+
+}
+.delete-button{
+    padding: 5px;
+  
+}
+.movebutton{
+    padding: 5px;
+
+}
