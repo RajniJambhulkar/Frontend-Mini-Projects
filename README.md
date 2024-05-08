@@ -1,4 +1,4 @@
 # My-Repo
-this is my first repository
+it contains my javascript and react.js mini projects 
 <br>
 Author: Rajni Jambhulkar
